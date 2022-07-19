@@ -1,0 +1,7 @@
+body {
+  background-color: lightblue;
+  text-align: center;
+}
+li:hover{
+  background-color: darkcyan;
+  }
